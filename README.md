@@ -31,4 +31,4 @@ im a moron and didnt use any **Don't be me you will get a 0 and not even a 1**
 
 ## Future Goals
 Moving forward, I plan to:
-  give up on this language and go back to python unless i get to make minecraft mods
+  give up on this language and go back to python unless i get to make minecraft mods this is a difficult language but better then anything with a "c"
