@@ -18,10 +18,10 @@ public class SignedText{
     int index = str.indexOf(sign);
     if(index==0){
       return str.substring(sign.length())+sign;
-    }else if(){
-      
+    }else if(index==str.length()-sign.length()){
+      return str;
     }else{
-      
+      return str+sign;
     }
   }
 }
